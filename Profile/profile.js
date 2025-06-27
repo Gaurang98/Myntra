@@ -54,5 +54,5 @@ document.getElementById('landingPage').addEventListener('click', function(){
   window.location.href = "../index.html"
 })
 document.getElementById('signUp').addEventListener('click', function(){
-  window.location.href = "../Profile/signup.html"
+  window.location.href = "signup.html"
 })

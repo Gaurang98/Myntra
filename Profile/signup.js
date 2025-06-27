@@ -52,5 +52,5 @@ document.getElementById('landingPage').addEventListener('click', function(){
 })
 
 document.getElementById('logIn').addEventListener('click', function(){
-    window.location.href = "../Profile/profile.html"
+    window.location.href = "profile.html"
 })
