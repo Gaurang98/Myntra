@@ -173,7 +173,7 @@ Please include:
 
 ## License
 This project is provided for educational purposes.
-- MIT License.
+It is licensed under the terms of the [**MIT**](LICENSE) license.
 
 ---
 
